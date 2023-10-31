@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo>
+	<Project Name="BurgerSim_WwiseProject" GUID="{6BE6C43B-513D-4CA0-9498-E99314EB30BE}" Generator="2022.1.8.8316"/>
+	<CacheRoot>../../../../BurgerSim_WwiseProject/.cache</CacheRoot>
+	<Platforms>
+		<Platform Name="Mac" GUID="{928468C3-3C62-4B00-918F-F568E45FA0DF}" BasePlatform="Mac" BasePlatformGUID="{9C6217D5-DD11-4795-87C1-6CE02853C540}" Path="../../../../BurgerSim_WwiseProject/GeneratedSoundBanks/Mac"/>
+		<Platform Name="Windows" GUID="{2BD76A1F-6B4B-48C5-A539-B7A185A18B28}" BasePlatform="Windows" BasePlatformGUID="{6E0CB257-C6C8-4C5C-8366-2740DFC441EB}" Path="../../../../BurgerSim_WwiseProject/GeneratedSoundBanks/Windows"/>
+	</Platforms>
+	<Languages>
+		<Language Name="English(US)" Id="684519430" GUID="{CC915D9D-A56F-4DA9-9FE5-AECD7262D57B}" Default="true" UseAsStandIn="true"/>
+	</Languages>
+	<FileHash>{5A701EEE-8B7C-E5C8-2114-D306412C87F9}</FileHash>
+</ProjectInfo>

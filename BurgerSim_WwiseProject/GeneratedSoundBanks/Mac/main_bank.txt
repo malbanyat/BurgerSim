@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	4258653052	test_event			\Default Work Unit\Test\test_event	
+
+Source plug-ins	ID	Name	Type		Wwise Object Path	Notes
+	268952593	Tone Generator	Wwise Tone Generator		\Actor-Mixer Hierarchy\Default Work Unit\test_tone\Tone Generator	
+
